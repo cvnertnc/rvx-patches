@@ -1,4 +1,0 @@
-[submodule "revanced-patches"]
-path = revanced-patches
-url = https://github.com/inotia00/revanced-patches
-ignore = dirty
