@@ -1,0 +1,4 @@
+[submodule "mindetach-magisk"]
+path = mindetach-magisk
+url = https://github.com/inotia00/revanced-patches
+ignore = dirty
