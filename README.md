@@ -1,4 +1,4 @@
-# rvx-rfpatches
+# rvx-patches
 > Please use it with [Revancify](https://github.com/cvnertnc/Revancify)
 <details><summary><big>Sources</big></summary>
 <ul>
